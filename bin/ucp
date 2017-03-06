@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+const ucp = require('./index.js');
+
+ucp(process.argv[2]);
