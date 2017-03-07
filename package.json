@@ -8,8 +8,16 @@
   "bin": {
     "ucp": "bin/ucp"
   },
-  "author": "oosugi20@gmail.com",
-  "license": "ISC",
+  "author": {
+    "name": "Makoto OOSUGI",
+    "email": "oosugi@pxgrid.com",
+    "url": "https://www.pxgrid.com/"
+  },
+  "repository": "git@github.com:pxgrid/uiflows-convert-png.git",
+  "bugs": {
+    "url": "https://github.com/pxgrid/uiflows-convert-png/issues"
+  },
+  "license": "MIT",
   "dependencies": {
     "svg2png": "^4.1.1",
     "uiflows-parser": "git@github.com:pxgrid/uiflows-parser.git",
