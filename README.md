@@ -23,8 +23,8 @@ what they do next
 [what they see next2]
 ```
 
-### 2.`$ ncp ./sample/uiflows.md`
+### 2.`$ ucp ./sample/uiflows.md`
 
 ### 3.created `./{timestamp}.png`
 
-[](./sample/return.png)
+![image](https://cloud.githubusercontent.com/assets/755854/23642684/c5e93176-033f-11e7-92a9-2821002f9489.png)
